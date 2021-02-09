@@ -1,0 +1,3 @@
+= Wordcloud Notebook
+
+See `wordcloud.ipynb` and see how to create a simple word cloud.
